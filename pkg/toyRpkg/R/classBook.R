@@ -40,9 +40,9 @@ setAs("CBook", "list",
       function(from) list(title = from@title, author = from@author, year = from@year))  
 
 setMethod("show", "CBook", function(object) { 
-    cat("title:", object@title, "\n", 
-        "author:", object@author, "\n", 
-        "year:",   object@year, "\n")})  
+    cat("title: ", object@title, "\n", 
+        "author: ", object@author, "\n", 
+        "year: ",   object@year, "\n", sep = '')})  
  
 
 ## example code 
