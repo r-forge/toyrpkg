@@ -22,7 +22,7 @@ License: \tab MIT\cr
 \author{
 Who wrote it
 
-Maintainer: MG <mg@users.sf.net> 
+Maintainer: MG <mg203@users.sf.net> 
 }
 \references{
 ~~ Literature or other references for background information ~~
