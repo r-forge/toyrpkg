@@ -1,6 +1,6 @@
 # exportPattern("^[[:alpha:]]+")
 # import(methods) 
-export(examplefun)  
 exportClasses(CBook) 
 exportMethods(bookTitle, "title<-") 
-export(CBook) 
+
+export(CBook, examplefun) 
