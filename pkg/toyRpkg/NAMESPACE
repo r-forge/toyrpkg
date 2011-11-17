@@ -4,3 +4,6 @@ exportClasses(CBook)
 exportMethods(bookTitle, "title<-") 
 
 export(CBook, examplefun) 
+
+useDynLib(toyRpkg) 
+export(yarout) 
