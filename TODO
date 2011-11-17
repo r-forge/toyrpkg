@@ -1,0 +1,4 @@
+1. call C function (using SEXP stuff) -- done 
+2. inside C function, call a R function (R function as 
+   parameters passed to C function. 
+3. write help file 
